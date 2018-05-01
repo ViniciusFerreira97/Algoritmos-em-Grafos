@@ -23,8 +23,19 @@ namespace MatrizDeAdjacencia
         }
         public void RemoverVertice(int vertice)
         {
-            LA.Remove(vertice);
-            Atual.ExcluirVertice(LA.Count, vertice);
+            Atual.ExcluirVertice(LA.Count -1, vertice);
+            ArrayList aux = new ArrayList();
+            for (int i = 0; i < LA.Count; i++)
+            {
+                if (i != vertice)
+                    aux.Add(LA[i]);
+            }
+            LA = new ArrayList();
+            for (int i = 0; i < aux.Count; i++)
+            {
+                LA.Add(aux[i]);
+            }
+            Console.WriteLine(LA.Count);
         }
         public int grauVertice(int v)
         {
@@ -61,6 +72,18 @@ namespace MatrizDeAdjacencia
         public bool regular()
         {
             return Atual.regular();
+        }
+        public string sequenciaDeGraus()
+        {
+            return Atual.sequenciaDeGraus();
+        }
+        public void showLA()
+        {
+            Atual.showLA();
+        }
+        public void VerticesAdjacentes(int v) //Verifica vertices adjacentes ao vertice informado
+        {
+            Atual.VerticesAdjacentes(v);
         }
     }
 }
