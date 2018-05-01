@@ -1,1 +1,8 @@
 C:\Users\joao\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\bin\Debug\MatrizDeAdjacencia.exe.config
+C:\Users\Vinicius\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\bin\Debug\MatrizDeAdjacencia.exe.config
+C:\Users\Vinicius\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\bin\Debug\MatrizDeAdjacencia.exe
+C:\Users\Vinicius\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\bin\Debug\MatrizDeAdjacencia.pdb
+C:\Users\Vinicius\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\obj\Debug\MatrizDeAdjacencia.csprojResolveAssemblyReference.cache
+C:\Users\Vinicius\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\obj\Debug\MatrizDeAdjacencia.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\obj\Debug\MatrizDeAdjacencia.exe
+C:\Users\Vinicius\Desktop\Algoritmos-em-Grafos\MatrizDeAdjacencia\MatrizDeAdjacencia\obj\Debug\MatrizDeAdjacencia.pdb
